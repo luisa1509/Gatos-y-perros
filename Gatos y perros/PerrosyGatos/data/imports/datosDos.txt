@@ -1,0 +1,10 @@
+1,Carlos,Muñoz,56,2774894,cra45#78,Alergia-Bronquitis
+4,Camila,Mosquera,95,2894732,cra35#34,Gastritis
+6,Andrea,Chamorro,35,2947537,cra76#25,Insomnio
+7,Natalia,Chacua,29,2846531,cra35#19,InsuficienciaUrinaria
+3,Armando,Velez,75,2995365,cra26#87,Migraña
+2,Katie,Rodriguez,18,2894736,cra24#38,Rinitis
+5,Noah,Mejia,36,2147965,cra67#12,Asma
+9,Jason,Betancur,76,2995362,cra14#88,Gastritis
+8,Laura,Benavidez,39,2889391,cra23#99,Migraña
+10,Miguel,Agudelo,47,2985037,cra66#15,Alergia

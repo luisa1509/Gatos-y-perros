@@ -1,0 +1,10 @@
+2,Boky,5,Gran Danes
+5,Max,2,Labrador
+3,Doggy,4,Doberman
+6,Firulais,3,Pitbull
+8,Milo,5,Bulldog frances
+7,Mateo,2,Beagle
+1,Pegaso,6,Pastor australiano
+10,Laki,1,Galgo
+9,Floppi,4,Borzoi
+4,Estrella,7,Lobero irlandes

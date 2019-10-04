@@ -1,0 +1,10 @@
+2,Balu,Gato persa
+5,Cafecito,Gato siames
+8,Esfinge,Sphynx
+3,Cookie,Ragdoll
+1,Leo,Bengala
+4,Nieve,Siberiano
+7,Tiger,Toyger
+6,Manchas,Ocicat
+9,Kori,Korat
+10,Luki,Snowshoe
